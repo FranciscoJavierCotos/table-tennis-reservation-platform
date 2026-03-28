@@ -105,11 +105,11 @@ netlify dev
 
 Netlify config is already included:
 
-| Setting             | Value           |
-| ------------------- | --------------- |
-| Publish directory   | `client/public` |
-| Functions directory | `functions`     |
-| Build command       | `npm run build` |
+| Setting                | Value           |
+| ---------------------- | --------------- |
+| 📁 Publish directory   | `client/public` |
+| ⚙️ Functions directory | `functions`     |
+| 🛠️ Build command       | `npm run build` |
 
 > Push to `main` → deployment triggers automatically.
 
