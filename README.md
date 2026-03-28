@@ -2,6 +2,8 @@
 
 > **End daily chaos.** One platform for bookings, events, and player coordination — no more WhatsApp threads or spreadsheet disasters.
 
+---
+
 <p align="center">
   <img src="./player-availability.jpg" width="250" />
   <img src="./Table%20confirmation.jpg" width="250" />
