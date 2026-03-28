@@ -1,15 +1,22 @@
-# 🏓 Table Tennis Reservation Platform
+# 🏓 Table Tennis Reservation App — One Place to Book Tables and Join Events
 
 > **End daily chaos.** One platform for bookings, events, and player coordination — no more WhatsApp threads or spreadsheet disasters.
 
 <p align="center">
-  <img src="./Main%20Page.jpg" width="300" />
-  <img src="./Table%20confirmation.jpg" width="300" />
+  <img src="./player-availability.jpg" width="250" />
+  <img src="./Table%20confirmation.jpg" width="250" />
+  <img src="./Main%20Page.jpg" width="250" />
 </p>
 
 ---
 
 ## 🚨 The Problem
+
+- 📵 Members book tables over WhatsApp — overbookings only surface when someone shows up
+- 🕐 Coordinators spend hours a week answering "is table 3 free at 7pm?"
+- 📋 No single source of truth — availability lives in someone's head or a shared notes file
+- 😤 Players ghost last-minute with no visibility — tables sit empty, spots go wasted
+- 📊 Zero data on peak hours, no-shows, or demand — impossible to plan capacity
 
 Clubs waste time and lose trust when reservations, tournament signups, and player coordination are scattered across calls and chat groups. **Manual = mistakes. Mistakes = overbooking.**
 
