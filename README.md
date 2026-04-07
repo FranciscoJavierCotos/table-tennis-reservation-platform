@@ -1,4 +1,4 @@
-# 🏓 Table Tennis Reservation App — One Place to Book Tables and Join Events
+# 🏓 Table Tennis Reservation App
 
 > **End daily chaos.** One platform for bookings, events, and player coordination — no more WhatsApp threads or spreadsheet disasters.
 
